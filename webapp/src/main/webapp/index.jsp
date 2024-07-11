@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Dussera Devali Mobile & apple offers hello why  ... </h1>   
+         <h1> Dussera Devali Mobile & apple 12 offers hello why  ... </h1>   
 	 
 
     </section>    
